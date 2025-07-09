@@ -1,0 +1,26 @@
+# CakePHP Cache und Logs
+/tmp/
+logs/
+cache/
+
+# Datenbank Dumps, falls vorhanden
+*.sql
+*.sqlite
+
+# Composer Dependencies
+/vendor/
+
+# Umgebungsdateien
+.env
+.env.*.local
+
+# IDE und OS-Dateien
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Backup und temporäre Dateien
+*.bak
+*.swp
+*.old
