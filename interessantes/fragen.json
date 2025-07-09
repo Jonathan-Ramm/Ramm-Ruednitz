@@ -1,0 +1,47 @@
+[
+    {
+      "frage": "Was bedeutet HTML?",
+      "antworten": ["HyperText Markup Language", "HighText Machine Language", "Hot Mail"],
+      "korrekt": 0
+    },
+    {
+      "frage": "Was macht CSS?",
+      "antworten": ["Programmiert Webseiten", "Stellt das Design dar", "Verbindet Datenbanken"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Was macht CSS?",
+      "antworten": ["Programmiert Webseiten", "Stellt das Design dar", "Verbindet Datenbanken"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Was macht CSS?",
+      "antworten": ["Programmiert Webseiten", "Stellt das Design dar", "Verbindet Datenbanken"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Was macht CSS?",
+      "antworten": ["Programmiert Webseiten", "Stellt das Design dar", "Verbindet Datenbanken"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Was macht CSS?",
+      "antworten": ["Programmiert Webseiten", "Stellt das Design dar", "Verbindet Datenbanken"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Was macht CSS?",
+      "antworten": ["Programmiert Webseiten", "Stellt das Design dar", "Verbindet Datenbanken"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Was macht CSS?",
+      "antworten": ["Programmiert Webseiten", "Stellt das Design dar", "Verbindet Datenbanken"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Was macht CSS?",
+      "antworten": ["Programmiert Webseiten", "Stellt das Design dar", "Verbindet Datenbanken"],
+      "korrekt": 1
+    }
+  ]

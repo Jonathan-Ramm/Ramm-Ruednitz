@@ -1,0 +1,15 @@
+AuthType Basic
+AuthName "TopSecret-Bereich"
+AuthUserFile /www/htdocs/w01d2f45/webseiten/.htpassword
+#AuthPGAuthoritative Off
+require user GripsSecure
+
+#Shopware geht sonst nicht
+#das Verzeichnis /api aus dem Schutz heraus nehmen
+SetEnvIf Request_URI /api noauth=1
+<RequireAny>
+    Require env noauth
+    Require env REDIRECT_noauth
+    Require valid-user
+</RequireAny>
+#Shopware ENDE

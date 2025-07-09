@@ -1,0 +1,4 @@
+AuthName "SOR WAHL"
+AuthType Basic
+AuthUserFile /www/htdocs/w01d2f45/webseiten/_privat/ramm-ruednitz/SOR/.htpasswd
+require valid-user
