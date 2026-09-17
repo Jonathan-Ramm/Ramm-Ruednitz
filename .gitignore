@@ -3,7 +3,7 @@
 logs/
 cache/
 
-# Datenbank Dumps, falls vorhanden
+# Datenbank Dumps
 *.sql
 *.sqlite
 
@@ -24,3 +24,7 @@ Thumbs.db
 *.bak
 *.swp
 *.old
+
+#htacces
+.htaccess
+.htpasswd
